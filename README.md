@@ -30,8 +30,17 @@ Original boards are:
 - single-sided:
   - bottom of board has copper traces and soldermask
   - top layer has silk-screen component labels but no traces or soldermask
-- ?mm thickness
+- 1.6mm thickness PCB
 - ?oz copper plating
+
+#### Dimensions
+- Height: 240mm
+- Length: 177mm (including edge-connector).
+- Edge connectors are 89mm in height and 10mm in length.
+- Edge connectors are 15.5mm from outer (top/bottom) card edge.
+- Edge connectors have a 31mm gap between them.
+
+
 
 ### Design Requirements
 - Circuit projects require KiCad 8.0+
