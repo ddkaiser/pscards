@@ -34,10 +34,11 @@ Original boards are:
 - ?oz copper plating
 
 #### Dimensions
-- Height: 240mm
-- Length: 177mm (including edge-connector).
-- Edge connectors are 89mm in height and 10mm in length.
-- Edge connectors are 15.5mm from outer (top/bottom) card edge.
+- Dimensioning of card assumes landscape orientation
+- Height: 177mm  (including edge-connector).
+- Width: 240mm
+- Edge connectors are 89mm in width and 10mm in height.
+- Edge connectors are 15.5mm from outer (left/right) card edge.
 - Edge connectors have a 31mm gap between them.
 
 

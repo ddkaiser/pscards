@@ -5,10 +5,11 @@
 KiCad project for creating a extender card. The extender card is useful for working on a Korg PS-Series Polyphonic Synthesizer.
 
 ### Dimensions
-- Height: 240mm
-- Length: 228mm (including edge-connector: card-side only, not socket)
-- Edge connectors are 89mm in height and 10mm in length.
-- Edge connectors are 15.5mm from outer (top/bottom) card edge.
+- Dimensioning of card assumes landscape orientation
+- Height: 228mm  (including edge-connector).
+- Width: 240mm
+- Edge connectors are 89mm in width and 10mm in height.
+- Edge connectors are 15.5mm from outer (left/right) card edge.
 - Edge connectors have a 31mm gap between them.
 
 ## Parts
