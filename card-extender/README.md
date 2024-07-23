@@ -31,9 +31,10 @@ The test points are:
 - Dimensioning of card assumes landscape orientation
 - Height: 228mm  (including edge-connector).
 - Width: 240mm
-- Edge connectors are 87.5mm in width and 10mm in height.
-- Edge connectors are 15.5mm from outer (left/right) card edge.
-- Edge connectors have a 34mm gap between them.
+- Edge connector pads mirror card-edge traces, but there can be some variance in edge connector sizing & placing
+	- Edge connectors can be between 87.5mm & 89mm in width and 10mm in height.
+	- Edge connectors can be from 14mm to 15.5mm from outer (left/right) card edge.
+	- Edge connectors can have a 32.5mm to 34mm gap between them.
 
 
 
