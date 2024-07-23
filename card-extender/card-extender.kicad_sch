@@ -5,6 +5,10 @@
 	(uuid "6a574be8-1373-4fa9-a10e-8f915a8f398f")
 	(paper "A4")
 	(title_block
+		(title "Korg PS Synth Card Extender")
+		(date "2024-07-23")
+		(rev "1")
+		(company "David Kaiser <dkaiser@dkaiser.org>")
 		(comment 1 "Created with 'Korg PS-3x00 KLM Cards' template: https://github.com/ddkaiser/pscards")
 	)
 	(lib_symbols
