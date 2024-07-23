@@ -8,6 +8,8 @@ The card is a pass-through board that extends a card outside the Korg synth chas
 
 The extender card plugs-in to Korg synth backplane, and provides 2 44-pin card socket connections to host the Korg KLM board.
 
+![rendering of extender card for Korg PS-3x00 synths](rendered.png)
+
 ## Parts
 
 ### Card-Edge Sockets
